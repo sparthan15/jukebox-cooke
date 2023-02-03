@@ -1,0 +1,12 @@
+C:\Users\CarlosGamboa\Development\apps\Jukebox\Jukebox\bin\Debug\net7.0\Jukebox.deps.json
+C:\Users\CarlosGamboa\Development\apps\Jukebox\Jukebox\bin\Debug\net7.0\Jukebox.dll
+C:\Users\CarlosGamboa\Development\apps\Jukebox\Jukebox\bin\Debug\net7.0\Jukebox.pdb
+C:\Users\CarlosGamboa\Development\apps\Jukebox\Jukebox\obj\Debug\net7.0\Jukebox.csproj.AssemblyReference.cache
+C:\Users\CarlosGamboa\Development\apps\Jukebox\Jukebox\obj\Debug\net7.0\Jukebox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarlosGamboa\Development\apps\Jukebox\Jukebox\obj\Debug\net7.0\Jukebox.AssemblyInfoInputs.cache
+C:\Users\CarlosGamboa\Development\apps\Jukebox\Jukebox\obj\Debug\net7.0\Jukebox.AssemblyInfo.cs
+C:\Users\CarlosGamboa\Development\apps\Jukebox\Jukebox\obj\Debug\net7.0\Jukebox.csproj.CoreCompileInputs.cache
+C:\Users\CarlosGamboa\Development\apps\Jukebox\Jukebox\obj\Debug\net7.0\Jukebox.dll
+C:\Users\CarlosGamboa\Development\apps\Jukebox\Jukebox\obj\Debug\net7.0\refint\Jukebox.dll
+C:\Users\CarlosGamboa\Development\apps\Jukebox\Jukebox\obj\Debug\net7.0\Jukebox.pdb
+C:\Users\CarlosGamboa\Development\apps\Jukebox\Jukebox\obj\Debug\net7.0\ref\Jukebox.dll
